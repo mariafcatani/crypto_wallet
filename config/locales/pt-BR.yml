@@ -1,0 +1,21 @@
+pt-BR:
+  current_locale: "Português"
+  welcome: "Bem-vindo(a)!"
+  messages:
+    welcome: "O Crypto Wallet é uma plataforma que permite que você cadastre e acompanhe suas criptomoedas com facilidade."
+    menu: "Para começar, selecione uma das opções abaixo:"
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    destroy: "Apagar"
+    confirm: "Tem certeza?"
+    back: "Voltar"
+  new:
+    coin: "Nova Moeda"
+    mining_type: "Novo Tipo de Mineração"
+  editing:
+    coin: "Editar Moeda"
+    mining_type: "Editar Tipo de Mineração"
+  showing:
+    coin: "Detalhes da Moeda"
+    mining_type: "Detalhes do Tipo de Mineração"

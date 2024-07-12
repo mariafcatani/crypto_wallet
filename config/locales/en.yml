@@ -1,0 +1,21 @@
+en:
+  current_locale: "English"
+  welcome: "Welcome!"
+  messages:
+    welcome: "Crypto Wallet is a platform that allows you to easily register and track your cryptocurrencies."
+    menu: "To get started, select one of the options below:"
+  links:
+    edit: "Edit"
+    show: "Show"
+    destroy: "Delete"
+    confirm: "Are you sure?"
+    back: "Back"
+  new:
+    coin: "New Coin"
+    mining_type: "New Mining Type"
+  editing:
+    coin: "Edit Coin"
+    mining_type: "Edit Mining Type"
+  showing:
+    coin: "View Coin"
+    mining_type: "View Mining Type"
